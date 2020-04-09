@@ -12,19 +12,19 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>TRIP - Login/SignUp</title>
-        <link type="text/css" rel='stylesheet' href='assests/css/fontone.css'>
-        <link type="text/css" rel='stylesheet' href='assests/css/fonttwo.css'>
-        <link type="text/css" rel="stylesheet" href="assests/css/font-awesome.min.css">
-        <link type="text/css" rel="stylesheet" href="assests/css/preloader.css" media="screen, print"/>
-        <link type="text/css" rel="stylesheet" href="assests/common/style.css">
-        <link type="text/css" rel="stylesheet" href="assests/css/owl.carousel.css">
-        <link type="text/css" rel="stylesheet" href="assests/css/owl.theme.default.css">
-        <link type="text/css" rel="stylesheet" href="assests/css/animate.css">
-        <link type="text/css" rel="stylesheet" href="assests/css/jquery-ui-1.10.3.custom.css"/>
-        <link type="text/css" rel="stylesheet" href="assests/css/bootstrap.min.css">
-        <link type="text/css" rel="stylesheet" href="assests/css/Validation.css" />
-        <link type="text/css" rel="stylesheet" href="assests/css/style.css">
-        <link type="text/css" rel="stylesheet" href="assests/css/responsive.css">       
+        <link type="text/css" rel='stylesheet' href='assets/css/fontone.css'>
+        <link type="text/css" rel='stylesheet' href='assets/css/fonttwo.css'>
+        <link type="text/css" rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link type="text/css" rel="stylesheet" href="assets/css/preloader.css" media="screen, print"/>
+        <link type="text/css" rel="stylesheet" href="assets/common/style.css">
+        <link type="text/css" rel="stylesheet" href="assets/css/owl.carousel.css">
+        <link type="text/css" rel="stylesheet" href="assets/css/owl.theme.default.css">
+        <link type="text/css" rel="stylesheet" href="assets/css/animate.css">
+        <link type="text/css" rel="stylesheet" href="assets/css/jquery-ui-1.10.3.custom.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="assets/css/Validation.css" />
+        <link type="text/css" rel="stylesheet" href="assets/css/style.css">
+        <link type="text/css" rel="stylesheet" href="assets/css/responsive.css">       
     </head>
     <body>        
         <header id="HOME" style="background-position: 50% -125px;">
@@ -32,7 +32,7 @@
                 <nav class="navbar navbar-default navbar-fixed-top">
                     <div class="container">                        
                         <div class="navbar-header">                            
-                            <a class="navbar-brand" href="#"><img src="assests/images/rise-logo.png" alt=""></a>
+                            <a class="navbar-brand" href="#"><img src="assets/images/rise-logo.png" alt=""></a>
                             <form class="nav navbar-nav" name="login" id="loginFormId" action="loginRegistration/processors/loginAction.php" method="post">
                                 <input type="text" name="loginEmail" id="loginEmailId" placeholder="Email" value="mehul@gmail.com"/>
                                 <input type="password" name="loginPassword" id="loginPasswordId" placeholder="Password" value="m"/>
@@ -92,27 +92,12 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <div class="footer_logo   wow fadeInUp animated">
-                                <img src="assests/images/rise-logo.png" alt="">
+                                <img src="assets/images/rise-logo.png" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="container">
-    <!--                <div class="row">
-                        <div class="col-md-12 text-center   wow fadeInUp animated">
-                            <div class="social">
-                                <h2>Follow Me on Here</h2>
-                                <ul class="icon_list">
-                                    <li><a href="http://www.facebook.com/abdullah.noman99"target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="http://www.twitter.com/absconderm"target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="http://www.dribbble.com/abdullahnoman"target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>-->
-                </div>
+                <div class="container"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 text-center">
@@ -125,18 +110,19 @@
             </div>
         </footer>
         <!-- ========================= SCRIPTS ============================== -->           
-        <!--<script src="assests/js/jquery.min.js"></script>-->
-        <script src="assests/js/jQuery2.0.2.min.js"></script>
-        <script src="assests/js/bootstrap.min.js"></script>
-        <script src="assests/js/jquery.nicescroll.js"></script>
-        <script src="assests/js/owl.carousel.js"></script>
-        <script src="assests/js/wow.js"></script>
-        <script src="assests/js/script.js"></script>
-        <script type="text/javascript" src="assests/js/jquery-ui.js" ></script>
-        <script type="text/javascript" src="assests/js/jquery.validate.js"></script>
+        <!--<script src="assets/js/jquery.min.js"></script>-->
+        <script src="assets/js/jQuery2.0.2.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/jquery.nicescroll.js"></script>
+        <script src="assets/js/owl.carousel.js"></script>
+        <script src="assets/js/wow.js"></script>
+        <script src="assets/js/script.js"></script>
+        <script type="text/javascript" src="assets/js/jquery-ui.js" ></script>
+        <script type="text/javascript" src="assets/js/jquery.UIBlock.js" ></script>
+        <script type="text/javascript" src="assets/js/jquery.validate.js"></script>
         <script type="text/javascript" src="loginRegistration/js/loginValidation.js"></script>
         <script type="text/javascript" src="loginRegistration/js/registrationValidation.js"></script>
-        <script type="text/javascript" src="assests/js/common.js"></script>
+        <script type="text/javascript" src="assets/js/common.js"></script>
         <script type="text/javascript">
             $(document).ready(function()
             {
@@ -163,13 +149,7 @@
                             }    
                         }
                     });
-                });
-//                $("#registrationEmailId").focusout(function() 
-//                {  
-////                    alert("first");
-//                                                                                                                      
-//                });
-                
+                });                
             });
         </script>
         </script>

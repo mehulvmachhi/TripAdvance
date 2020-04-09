@@ -18,14 +18,14 @@
         <meta charset="UTF-8">
         <title>TRIP | Timeline</title>
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
-        <link type="text/css" rel="stylesheet" href="assests/css/jquery-ui-1.10.3.custom.css"/>
-        <link type="text/css" rel="stylesheet" href="assests/css/bootstrap.min.css"/>
-        <link type="text/css" rel="stylesheet" href="assests/css/font-awesome.min.css"/>
-        <link type="text/css" rel="stylesheet" href="assests/css/ionicons.min.css"/>        
-        <link type="text/css" rel="stylesheet" href="assests/css/AdminLTE.css"/>
-        <link type="text/css" rel="stylesheet" href="assests/css/Validation.css" />
-        <link type="text/css" rel="stylesheet" href="assests/css/jquery.dataTables.css"/>
-        <link type="text/css" rel="stylesheet" href="assests/css/styleE.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/css/jquery-ui-1.10.3.custom.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/css/font-awesome.min.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/css/ionicons.min.css"/>        
+        <link type="text/css" rel="stylesheet" href="assets/css/AdminLTE.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/css/Validation.css" />
+        <link type="text/css" rel="stylesheet" href="assets/css/jquery.dataTables.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/css/styleE.css"/>
     </head>
     <body class="skin-blue">
         <header class="header">
@@ -51,7 +51,7 @@
                                         <li>
                                             <a href="#">
                                                 <div class="pull-left">
-                                                    <img src="assests/img/avatar3.png" class="img-circle" alt="User Image"/>
+                                                    <img src="assets/img/avatar3.png" class="img-circle" alt="User Image"/>
                                                 </div>
                                                 <h4>Support Team<small><i class="fa fa-clock-o"></i> 5 mins</small></h4>
                                                 <p>Why not buy a new awesome theme?</p>
@@ -352,20 +352,20 @@
                 <!-- Main content end -->
             </aside>
         </div>
-        <!--<script type="text/javascript" src="assests/js/jquery-1.9.1.js"></script>-->
-        <script type="text/javascript" src="assests/js/jQuery2.0.2.min.js"></script>        
-        <script type="text/javascript" src="assests/js/bootstrap.min.js" ></script>        
-        <script type="text/javascript" src="assests/js/jquery.dataTables.min.js" ></script>
-        <script type="text/javascript" src="assests/js/AdminLTE/app.js" ></script>
-        <script type="text/javascript" src="assests/js/AdminLTE/demo.js" ></script>                
-        <script type="text/javascript" src="assests/js/jquery-ui.js" ></script>
-        <script type="text/javascript" src="assests/js/jquery.validate.js"></script>
-        <script type="text/javascript" src="assests/js/jquery-ui-1.10.3.min.js" ></script>
-        <script type="text/javascript" src="assests/js/jquery.livequery.min.js"></script>
-        <script type="text/javascript" src="assests/js/jquery.form.js"></script>        
-        <script type="text/javascript" src="assests/js/jquery.noty.packaged.js"></script>
-        <script type="text/javascript" src="assests/js/jquery.UIBlock.js"></script>
-        <script type="text/javascript" src="assests/js/common.js"></script>
+        <!--<script type="text/javascript" src="assets/js/jquery-1.9.1.js"></script>-->
+        <script type="text/javascript" src="assets/js/jQuery2.0.2.min.js"></script>        
+        <script type="text/javascript" src="assets/js/bootstrap.min.js" ></script>        
+        <script type="text/javascript" src="assets/js/jquery.dataTables.min.js" ></script>
+        <script type="text/javascript" src="assets/js/AdminLTE/app.js" ></script>
+        <script type="text/javascript" src="assets/js/AdminLTE/demo.js" ></script>                
+        <script type="text/javascript" src="assets/js/jquery-ui.js" ></script>
+        <script type="text/javascript" src="assets/js/jquery.validate.js"></script>
+        <script type="text/javascript" src="assets/js/jquery-ui-1.10.3.min.js" ></script>
+        <script type="text/javascript" src="assets/js/jquery.livequery.min.js"></script>
+        <script type="text/javascript" src="assets/js/jquery.form.js"></script>        
+        <script type="text/javascript" src="assets/js/jquery.noty.packaged.js"></script>
+        <script type="text/javascript" src="assets/js/jquery.UIBlock.js"></script>
+        <script type="text/javascript" src="assets/js/common.js"></script>
                
         <script type="text/javascript">
             $(document).ready(function()

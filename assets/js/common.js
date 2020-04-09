@@ -1,7 +1,7 @@
 $(document).ready(function(){
     
     $( document ).ajaxStart(function() {
-        $.blockUI({ message: '<h1><img src="img/busy.gif" class="loadingimags" /> Just a moment...</h1>' });  
+        $.blockUI({ message: '<h1><img src="assets/img/ajax-loader1.gif" class="loadingimags" /> </h1>' });  
     });
 	
     $(document).ajaxStop($.unblockUI); 
